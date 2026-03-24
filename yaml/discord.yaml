@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,discord.tools
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discordapp.page.link
   - DOMAIN-SUFFIX,discordmerch.com
   - DOMAIN-SUFFIX,discordpartygames.com
   - DOMAIN-SUFFIX,discord-activities.com
@@ -25,8 +26,8 @@ payload:
   - DOMAIN-SUFFIX,watchanimeattheoffice.com
   - DOMAIN-SUFFIX,discordapp.io
   - DOMAIN-SUFFIX,discordcdn.com
-  - DOMAIN-SUFFIX,discordsays.com
   - DOMAIN-SUFFIX,discordsez.com
-  - DOMAIN,updates.discord.com
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,zendesk.com
+  - DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
+  - DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
+  - DOMAIN-SUFFIX,discord.app
+  - DOMAIN-SUFFIX,cloudflare-ech.com
