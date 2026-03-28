@@ -1,4 +1,7 @@
-payload:      
+payload:
+  - PROCESS-NAME,Discord.exe
+  - PROCESS-NAME,Discord
+
   - DOMAIN-SUFFIX,dis.gd
   - DOMAIN-SUFFIX,discord.co
   - DOMAIN-SUFFIX,discord.com
