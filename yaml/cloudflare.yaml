@@ -1,4 +1,5 @@
 payload:
+  # Domains
   - DOMAIN-SUFFIX,ovhcloud.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,one.one.one.one

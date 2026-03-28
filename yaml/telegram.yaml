@@ -1,7 +1,9 @@
 payload:
+  # Programs
   - PROCESS-NAME,Telegram.exe
   - PROCESS-NAME,Telegram
-
+  
+  # Domains
   - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,comments.app
   - DOMAIN-SUFFIX,fragment.com

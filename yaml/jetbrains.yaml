@@ -1,4 +1,18 @@
 payload:
+  # Programs
+  - PROCESS-NAME,clion64.exe
+  - PROCESS-NAME,Clion
+
+  - PROCESS-NAME,rider64.exe
+  - PROCESS-NAME,Rider
+
+  - PROCESS-NAME,rustrover64.exe
+  - PROCESS-NAME,RustRover
+
+  - PROCESS-NAME,pycharm64.exe
+  - PROCESS-NAME,PyCharm
+
+  # Domains
   - DOMAIN-SUFFIX,intellij.com
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,intellij.org

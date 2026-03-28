@@ -1,3 +1,8 @@
 payload:
+  # Programs
+  - PROCESS-NAME,MongoDBCompass.exe
+  - PROCESS-NAME,MongoDBCompass
+
+  # Domains
   - DOMAIN-SUFFIX,mongodb.com
   - DOMAIN-SUFFIX,mongodb.org
