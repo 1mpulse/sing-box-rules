@@ -2,6 +2,12 @@ payload:
   # Programms
   - PROCESS-NAME,steamwebhelper.exe
   - PROCESS-NAME,steam.exe
+  - PROCESS-NAME,NVIDIA Overlay.exe
+  - PROCESS-NAME,nvcontainer.exe
+
+  # Games
+  - PROCESS-NAME,cs2.exe
+  - PROCESS-NAME,dota2.exe
 
   # Geosites
   - GEOSITE,category-medicine-ru
