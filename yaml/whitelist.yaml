@@ -10,6 +10,7 @@ payload:
   - PROCESS-NAME,dota2.exe
 
   # Geosites
+  - GEOSITE,category-bank-ru
   - GEOSITE,category-medicine-ru
   - GEOSITE,category-media-ru
   - GEOSITE,category-gov-ru
