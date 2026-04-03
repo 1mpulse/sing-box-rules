@@ -4,6 +4,10 @@ payload:
   - PROCESS-NAME,steam.exe
   - PROCESS-NAME,NVIDIA Overlay.exe
   - PROCESS-NAME,nvcontainer.exe
+  - PROCESS-NAME,Battle.net.exe
+  - PROCESS-NAME,Battle.net
+  - PROCESS-NAME,GameCenter
+  - PROCESS-NAME,GameCenter.exe
 
   # Games
   - PROCESS-NAME,cs2.exe
