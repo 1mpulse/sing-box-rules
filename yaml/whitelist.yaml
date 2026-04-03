@@ -13,7 +13,9 @@ payload:
   - PROCESS-NAME,cs2.exe
   - PROCESS-NAME,dota2.exe
 
-  # Geosites
+  # Geo
+  - GEOIP,private
+  - GEOSITE,private
   - GEOSITE,category-bank-ru
   - GEOSITE,category-medicine-ru
   - GEOSITE,category-media-ru
