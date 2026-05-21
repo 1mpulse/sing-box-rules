@@ -203,6 +203,7 @@ payload:
   - DOMAIN-SUFFIX,facebookvacation.com
   - DOMAIN-SUFFIX,facebookw.com
   - DOMAIN-SUFFIX,facebookworld.com
+  - DOMAIN-SUFFIX,fbcdn.net
 
   # Workplace
   - DOMAIN-SUFFIX,facebookwork.com
