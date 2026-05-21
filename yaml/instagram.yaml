@@ -73,3 +73,7 @@ payload:
   - DOMAIN-SUFFIX,onlineinstagram.com
   - DOMAIN-SUFFIX,web-instagram.net
   - DOMAIN-SUFFIX,wwwinstagram.com
+
+  # Ads/tracking
+  - DOMAIN,graph.instagram.com,REJECT
+  - DOMAIN,graph-fallback.instagram.com,REJECT
