@@ -1,387 +1,413 @@
 payload:
-  - 'PROCESS-NAME,steamwebhelper.exe'
-  - 'PROCESS-NAME,steam.exe'
-  - 'PROCESS-NAME,NVIDIA Overlay.exe'
-  - 'PROCESS-NAME,nvcontainer.exe'
-  - 'PROCESS-NAME,Battle.net.exe'
-  - 'PROCESS-NAME,Battle.net'
-  - 'PROCESS-NAME,GameCenter'
-  - 'PROCESS-NAME,GameCenter.exe'
-  - 'PROCESS-NAME,cs2.exe'
-  - 'PROCESS-NAME,dota2.exe'
-  - 'GEOIP,private'
-  - 'GEOSITE,private'
-  - 'GEOSITE,category-bank-ru'
-  - 'GEOSITE,category-medicine-ru'
-  - 'GEOSITE,category-media-ru'
-  - 'GEOSITE,category-gov-ru'
-  - 'GEOSITE,category-retail-ru'
-  - 'GEOSITE,category-travel-ru'
-  - 'GEOSITE,category-entertainment-ru'
-  - 'GEOSITE,category-ecommerce-ru'
-  - 'GEOSITE,category-antivirus'
-  - 'GEOSITE,yandex'
-  - 'GEOSITE,mailru-group'
-  - 'GEOSITE,2gis'
-  - 'DOMAIN-SUFFIX,ru.com'
-  - 'DOMAIN-SUFFIX,ru.net'
-  - 'DOMAIN-SUFFIX,credistory.ru'
-  - 'DOMAIN-SUFFIX,nbki.ru'
-  - 'DOMAIN-SUFFIX,moex.com'
-  - 'DOMAIN-SUFFIX,spvb.ru'
-  - 'DOMAIN-SUFFIX,banki.ru'
-  - 'DOMAIN-SUFFIX,finuslugi.ru'
-  - 'DOMAIN-SUFFIX,sistema-capital.com'
-  - 'DOMAIN-SUFFIX,mirpayonline.ru'
-  - 'DOMAIN-SUFFIX,nspk.ru'
-  - 'DOMAIN-SUFFIX,netmonet.co'
-  - 'DOMAIN-SUFFIX,tips.tips'
-  - 'DOMAIN-SUFFIX,beeline.ru'
-  - 'DOMAIN-SUFFIX,dom.ru'
-  - 'DOMAIN-SUFFIX,megafon.ru'
-  - 'DOMAIN-SUFFIX,mts.ru'
-  - 'DOMAIN-SUFFIX,mymts.ru'
-  - 'DOMAIN-SUFFIX,rostelecom.ru'
-  - 'DOMAIN-SUFFIX,rt.ru'
-  - 'DOMAIN-SUFFIX,t2.ru'
-  - 'DOMAIN-SUFFIX,tele2.ru'
-  - 'DOMAIN-SUFFIX,yota.ru'
-  - 'DOMAIN-SUFFIX,gazfond-pn.ru'
-  - 'DOMAIN-SUFFIX,litres.ru'
-  - 'DOMAIN-SUFFIX,meteoinfo.ru'
-  - 'DOMAIN-SUFFIX,ngenix.net'
-  - 'DOMAIN-SUFFIX,pochta.ru'
-  - 'DOMAIN-SUFFIX,qms.ru'
-  - 'DOMAIN-SUFFIX,rustore.ru'
-  - 'DOMAIN-SUFFIX,t1.cloud'
-  - 'DOMAIN-SUFFIX,taxsee.com'
-  - 'DOMAIN-SUFFIX,yclients.com'
-  - 'DOMAIN-SUFFIX,delimobil.ru'
-  - 'DOMAIN-SUFFIX,citydrive.ru'
-  - 'DOMAIN-SUFFIX,belkacar.ru'
-  - 'DOMAIN-SUFFIX,hr-link.ru'
-  - 'DOMAIN-SUFFIX,subscription.backend-impulse.ru'
-  - 'DOMAIN-SUFFIX,subscription.impulse-dev.cc'
-  - 'DOMAIN-SUFFIX,mtalk.google.com'
-  - 'DOMAIN-SUFFIX,push.apple.com'
-  - 'DOMAIN-SUFFIX,push-apple.com.akadns.net'
-  - 'DOMAIN-WILDCARD,*-courier.push.apple.com'
-  - 'DOMAIN-SUFFIX,24h.tv'
-  - 'DOMAIN-SUFFIX,2w.ru'
-  - 'DOMAIN-SUFFIX,4c.ru'
-  - 'DOMAIN-SUFFIX,5ka.ru'
-  - 'DOMAIN-SUFFIX,5post.market'
-  - 'DOMAIN-SUFFIX,abr.ru'
-  - 'DOMAIN-SUFFIX,adfox.ru'
-  - 'DOMAIN-SUFFIX,admetrica.ru'
-  - 'DOMAIN-SUFFIX,aeroflot.ru'
-  - 'DOMAIN-SUFFIX,afafb.com'
-  - 'DOMAIN-SUFFIX,afisha.ru'
-  - 'DOMAIN-SUFFIX,aif.ru'
-  - 'DOMAIN-SUFFIX,amediateka.ru'
-  - 'DOMAIN-SUFFIX,applovin.com'
-  - 'DOMAIN-SUFFIX,appsflyersdk.com'
-  - 'DOMAIN-SUFFIX,auchan.ru'
-  - 'DOMAIN-SUFFIX,av.ru'
-  - 'DOMAIN-SUFFIX,avs.io'
-  - 'DOMAIN-SUFFIX,avtovokzaly.ru'
-  - 'DOMAIN-SUFFIX,bcs-bank.ru'
-  - 'DOMAIN-SUFFIX,bcs.ru'
-  - 'DOMAIN-SUFFIX,beeline.tv'
-  - 'DOMAIN-SUFFIX,blablacar.ru'
-  - 'DOMAIN-SUFFIX,boosty.to'
-  - 'DOMAIN-SUFFIX,bristol.ru'
-  - 'DOMAIN-SUFFIX,broker.ru'
-  - 'DOMAIN-SUFFIX,burgerkingrus.ru'
-  - 'DOMAIN-SUFFIX,capitalt.ru'
-  - 'DOMAIN-SUFFIX,cardsmobile.ru'
-  - 'DOMAIN-SUFFIX,castarsdk.com'
-  - 'DOMAIN-SUFFIX,cbr.ru'
-  - 'DOMAIN-SUFFIX,cdek.ru'
-  - 'DOMAIN-SUFFIX,cdn-tinkoff.ru'
-  - 'DOMAIN-SUFFIX,cdn-vk.ru'
-  - 'DOMAIN-SUFFIX,cdnvideo.ru'
-  - 'DOMAIN-SUFFIX,chizhik.club'
-  - 'DOMAIN-SUFFIX,cian.ru'
-  - 'DOMAIN-SUFFIX,cikrf.ru'
-  - 'DOMAIN-SUFFIX,cplsb.ru'
-  - 'DOMAIN-SUFFIX,custody.ru'
-  - 'DOMAIN-SUFFIX,data-tscbank.ru'
-  - 'DOMAIN-SUFFIX,dbo-dengi.online'
-  - 'DOMAIN-SUFFIX,dellin.ru'
-  - 'DOMAIN-SUFFIX,deltacredit.ru'
-  - 'DOMAIN-SUFFIX,depository.ru'
-  - 'DOMAIN-SUFFIX,detmir.ru'
-  - 'DOMAIN-SUFFIX,dixy.ru'
-  - 'DOMAIN-SUFFIX,dolyame.ru'
-  - 'DOMAIN-SUFFIX,donationalerts.com'
-  - 'DOMAIN-SUFFIX,dostaevsky.ru'
-  - 'DOMAIN-SUFFIX,drive2.ru'
-  - 'DOMAIN-SUFFIX,e5.ru'
-  - 'DOMAIN-SUFFIX,eaptechka.online'
-  - 'DOMAIN-SUFFIX,eapteka.ru'
-  - 'DOMAIN-SUFFIX,earnapp.com'
-  - 'DOMAIN-SUFFIX,earnsdk.io'
-  - 'DOMAIN-SUFFIX,ebs.ru'
-  - 'DOMAIN-SUFFIX,edu.ru'
-  - 'DOMAIN-SUFFIX,electronicsignature.ru'
-  - 'DOMAIN-SUFFIX,emias.info'
-  - 'DOMAIN-SUFFIX,enterly.ru'
-  - 'DOMAIN-SUFFIX,era-invest.ru'
-  - 'DOMAIN-SUFFIX,etna.ai'
-  - 'DOMAIN-SUFFIX,etradebook.ru'
-  - 'DOMAIN-SUFFIX,evrasia.rest'
-  - 'DOMAIN-SUFFIX,fivepost.ru'
-  - 'DOMAIN-SUFFIX,fix-price.com'
-  - 'DOMAIN-SUFFIX,flypobeda.ru'
-  - 'DOMAIN-SUFFIX,forbes.ru'
-  - 'DOMAIN-SUFFIX,gainstech.ru'
-  - 'DOMAIN-SUFFIX,gazeta.ru'
-  - 'DOMAIN-SUFFIX,geobasket.ru'
-  - 'DOMAIN-SUFFIX,getsynapse.io'
-  - 'DOMAIN-SUFFIX,gismeteo.ru'
-  - 'DOMAIN-SUFFIX,gorodpay.ru'
-  - 'DOMAIN-SUFFIX,gosdolgi.ru'
-  - 'DOMAIN-SUFFIX,goskey.ru'
-  - 'DOMAIN-SUFFIX,gosuslugi.ru'
-  - 'DOMAIN-SUFFIX,gov.ru'
-  - 'DOMAIN-SUFFIX,government.ru'
-  - 'DOMAIN-SUFFIX,gpb.ru'
-  - 'DOMAIN-SUFFIX,grfc.ru'
-  - 'DOMAIN-SUFFIX,gu-st.ru'
-  - 'DOMAIN-SUFFIX,hexsdk.com'
-  - 'DOMAIN-SUFFIX,hh.ru'
-  - 'DOMAIN-SUFFIX,honeygain.com'
-  - 'DOMAIN-SUFFIX,imgsmail.ru'
-  - 'DOMAIN-SUFFIX,instajob.ai'
-  - 'DOMAIN-SUFFIX,ipidea.io'
-  - 'DOMAIN-SUFFIX,ipidea.net'
-  - 'DOMAIN-SUFFIX,ivi.ru'
-  - 'DOMAIN-SUFFIX,jfn.su'
-  - 'DOMAIN-SUFFIX,kaspersky.com'
-  - 'DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net'
-  - 'DOMAIN-SUFFIX,kinopoisk.ru'
-  - 'DOMAIN-SUFFIX,kinorium.com'
-  - 'DOMAIN-SUFFIX,kontur.host'
-  - 'DOMAIN-SUFFIX,kontur.ru'
-  - 'DOMAIN-SUFFIX,koshelek.app'
-  - 'DOMAIN-SUFFIX,kp.ru'
-  - 'DOMAIN-SUFFIX,krasnoeibeloe.ru'
-  - 'DOMAIN-SUFFIX,kremlin.ru'
-  - 'DOMAIN-SUFFIX,kuper.ru'
-  - 'DOMAIN-SUFFIX,lenta.ru'
-  - 'DOMAIN-SUFFIX,lifestyle-tec.ru'
-  - 'DOMAIN-SUFFIX,magnit.ru'
-  - 'DOMAIN-SUFFIX,mail.ru'
-  - 'DOMAIN-SUFFIX,malotogo.ru'
-  - 'DOMAIN-SUFFIX,max-tcs.ru'
-  - 'DOMAIN-SUFFIX,max.ru'
-  - 'DOMAIN-SUFFIX,megamarket.ru'
-  - 'DOMAIN-SUFFIX,megamarket.tech'
-  - 'DOMAIN-SUFFIX,memealerts.com'
-  - 'DOMAIN-SUFFIX,meteum.ai'
-  - 'DOMAIN-SUFFIX,metro-cc.ru'
-  - 'DOMAIN-SUFFIX,mfk-t-finance.ru'
-  - 'DOMAIN-SUFFIX,mgfoms.ru'
-  - 'DOMAIN-SUFFIX,mkb.ru'
-  - 'DOMAIN-SUFFIX,mos.ru'
-  - 'DOMAIN-SUFFIX,mosreg.ru'
-  - 'DOMAIN-SUFFIX,motivtelecom.ru'
-  - 'DOMAIN-SUFFIX,mp.world'
-  - 'DOMAIN-SUFFIX,mradx.net'
-  - 'DOMAIN-SUFFIX,mrgcdn.ru'
-  - 'DOMAIN-SUFFIX,mtsdengi.ru'
-  - 'DOMAIN-SUFFIX,mvk.com'
-  - 'DOMAIN-SUFFIX,my-tbank.ru'
-  - 'DOMAIN-SUFFIX,myapelsin.ru'
-  - 'DOMAIN-SUFFIX,mycdn.me'
-  - 'DOMAIN-SUFFIX,myspar.ru'
-  - 'DOMAIN-SUFFIX,nalog.ru'
-  - 'DOMAIN-SUFFIX,naydex.net'
-  - 'DOMAIN-SUFFIX,neon.click'
-  - 'DOMAIN-SUFFIX,ocourier.ru'
-  - 'DOMAIN-SUFFIX,ok.ru'
-  - 'DOMAIN-SUFFIX,okcdn.ru'
-  - 'DOMAIN-SUFFIX,okolo.app'
-  - 'DOMAIN-SUFFIX,oneme.ru'
-  - 'DOMAIN-SUFFIX,onlyjobs.ru'
-  - 'DOMAIN-SUFFIX,ostrovok.ru'
-  - 'DOMAIN-SUFFIX,otello.ru'
-  - 'DOMAIN-SUFFIX,packetsdk.com'
-  - 'DOMAIN-SUFFIX,packetsdk.io'
-  - 'DOMAIN-SUFFIX,packetsdk.net'
-  - 'DOMAIN-SUFFIX,packetsdk.xyz'
-  - 'DOMAIN-SUFFIX,packetstream.net'
-  - 'DOMAIN-SUFFIX,pawns.app'
-  - 'DOMAIN-SUFFIX,payment.ru'
-  - 'DOMAIN-SUFFIX,peer2profit.com'
-  - 'DOMAIN-SUFFIX,pervye.ru'
-  - 'DOMAIN-SUFFIX,phoenix-ca.ru'
-  - 'DOMAIN-SUFFIX,playfamily.ru'
-  - 'DOMAIN-SUFFIX,pochtabank.ru'
-  - 'DOMAIN-SUFFIX,premier.one'
-  - 'DOMAIN-SUFFIX,private-banking.ru'
-  - 'DOMAIN-SUFFIX,prodcontest.com'
-  - 'DOMAIN-SUFFIX,psk'
-  - 'DOMAIN-SUFFIX,rambler-co.ru'
-  - 'DOMAIN-SUFFIX,rambler.ru'
-  - 'DOMAIN-SUFFIX,rbc.ru'
-  - 'DOMAIN-SUFFIX,reg.ru'
-  - 'DOMAIN-SUFFIX,restream-media.net'
-  - 'DOMAIN-SUFFIX,rg.ru'
-  - 'DOMAIN-SUFFIX,ria.ru'
-  - 'DOMAIN-SUFFIX,rnd.ru'
-  - 'DOMAIN-SUFFIX,rostaxi.org'
-  - 'DOMAIN-SUFFIX,rrtp.ru'
-  - 'DOMAIN-SUFFIX,rshb.ru'
-  - 'DOMAIN-SUFFIX,rtbcdn.ru'
-  - 'DOMAIN-SUFFIX,russoutdoor.ru'
-  - 'DOMAIN-SUFFIX,safeliner.tech'
-  - 'DOMAIN-SUFFIX,sage-observability.tech'
-  - 'DOMAIN-SUFFIX,samokat.ru'
-  - 'DOMAIN-SUFFIX,sbrf.ru'
-  - 'DOMAIN-SUFFIX,sdk-api.apptracer.ru'
-  - 'DOMAIN-SUFFIX,sgcheck.ru'
-  - 'DOMAIN-SUFFIX,sirena-travel.ru'
-  - 'DOMAIN-SUFFIX,smotreshka.tv'
-  - 'DOMAIN-SUFFIX,spb.ru'
-  - 'DOMAIN-SUFFIX,sravni.ru'
-  - 'DOMAIN-SUFFIX,start.ru'
-  - 'DOMAIN-SUFFIX,t.finance'
-  - 'DOMAIN-SUFFIX,tamtam.chat'
-  - 'DOMAIN-SUFFIX,tank-online.com'
-  - 'DOMAIN-SUFFIX,taximaxim.ru'
-  - 'DOMAIN-SUFFIX,tb-esim.ru'
-  - 'DOMAIN-SUFFIX,tbank-online.com'
-  - 'DOMAIN-SUFFIX,tbank.ru'
-  - 'DOMAIN-SUFFIX,tconf.ru'
-  - 'DOMAIN-SUFFIX,tcsbank.ru'
-  - 'DOMAIN-SUFFIX,telega.info'
-  - 'DOMAIN-SUFFIX,telega.me'
-  - 'DOMAIN-SUFFIX,tiktokpangle.us'
-  - 'DOMAIN-SUFFIX,tildaapi.com'
-  - 'DOMAIN-SUFFIX,time-messenger.ru'
-  - 'DOMAIN-SUFFIX,tmiaf.ru'
-  - 'DOMAIN-SUFFIX,tns-counter.ru'
-  - 'DOMAIN-SUFFIX,tpension.ru'
-  - 'DOMAIN-SUFFIX,travel-tec.ru'
-  - 'DOMAIN-SUFFIX,trbcdn.net'
-  - 'DOMAIN-SUFFIX,turbopages.org'
-  - 'DOMAIN-SUFFIX,tutu.ru'
-  - 'DOMAIN-SUFFIX,tvigle.ru'
-  - 'DOMAIN-SUFFIX,udqrh6.ru'
-  - 'DOMAIN-SUFFIX,uni.rest'
-  - 'DOMAIN-SUFFIX,unirest.tech'
-  - 'DOMAIN-SUFFIX,userapi.com'
-  - 'DOMAIN-SUFFIX,uxzw.club'
-  - 'DOMAIN-SUFFIX,vamzakaz.ru'
-  - 'DOMAIN-SUFFIX,viju.ru'
-  - 'DOMAIN-SUFFIX,vkusnoitochka.ru'
-  - 'DOMAIN-SUFFIX,vkusvill.ru'
-  - 'DOMAIN-SUFFIX,vsemrabota.ru'
-  - 'DOMAIN-SUFFIX,vtb.ru'
-  - 'DOMAIN-SUFFIX,vungle.com'
-  - 'DOMAIN-SUFFIX,warehouse.domains'
-  - 'DOMAIN-SUFFIX,winelab.ru'
-  - 'DOMAIN-SUFFIX,wink.ru'
-  - 'DOMAIN-SUFFIX,yads.tech'
-  - 'DOMAIN-SUFFIX,yandex'
-  - 'DOMAIN-SUFFIX,yandex-images.clstorage.net'
-  - 'DOMAIN-SUFFIX,yccdn.ru'
-  - 'DOMAIN-SUFFIX,yektanet.com'
-  - 'DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai'
-  - 'DOMAIN-SUFFIX,plyr.io'
-  - 'DOMAIN,yandex-pogoda.static-storage.net'
-  - 'DOMAIN-SUFFIX,ipinfo.io'
-  - 'DOMAIN-SUFFIX,bookmate.ru'
-  - 'DOMAIN-SUFFIX,russianpost.ru'
-  - 'DOMAIN-SUFFIX,nnm-club.cc'
-  - 'DOMAIN-SUFFIX,nnm-club.info'
-  - 'DOMAIN-SUFFIX,opentrackr.org'
-  - 'DOMAIN-SUFFIX,xbtrutor.com'
-  - 'DOMAIN-SUFFIX,hola.org'
-  - 'DOMAIN-SUFFIX,dler.org'
-  - 'DOMAIN-SUFFIX,zoon.ru'
-  - 'DOMAIN-SUFFIX,network-lc.ru'
-  - 'DOMAIN-SUFFIX,servicecdn.ru'
-  - 'DOMAIN-SUFFIX,mwscdn.ru'
-  - 'DOMAIN-SUFFIX,inappstory.ru'
-  - 'DOMAIN-SUFFIX,ipify.org'
-  - 'DOMAIN-SUFFIX,domonap.ru'
-  - 'DOMAIN-SUFFIX,dns-shop.ru'
-  - 'DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com'
-  - 'DOMAIN-SUFFIX,uxfeedback.ru'
-  - 'DOMAIN-SUFFIX,wsoft.ru'
-  - 'DOMAIN-SUFFIX,plamit.ru'
-  - 'DOMAIN-SUFFIX,lencr.org'
-  - 'DOMAIN-SUFFIX,juicyscore.com'
-  - 'DOMAIN-SUFFIX,my-manager-account.com'
-  - 'DOMAIN-SUFFIX,kion.ru'
-  - 'DOMAIN-SUFFIX,api-lmn.ru'
-  - 'DOMAIN-SUFFIX,lemanapro.ru'
-  - 'DOMAIN-SUFFIX,sputnik.ru'
-  - 'DOMAIN-SUFFIX,yadro.ru'
-  - 'DOMAIN-REGEX,(^|\.)2gis\.(ae|am|az|by|com|com\.cy|cz|ge|kg|kz|ru|tj|ua|uz)$'
-  - 'DOMAIN-REGEX,(^|\.)alfa[a-z0-9-]*\.(oavdo\.amc|ru|st)$'
-  - 'DOMAIN-REGEX,(^|\.)atomyze\.(ru|tech)$'
-  - 'DOMAIN-REGEX,(^|\.)aviasales\.(com|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)avito\.(ru|st)$'
-  - 'DOMAIN-REGEX,(^|\.)dodo[a-z0-9-]*\.(com|io|net|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)dzen[a-z0-9-]*\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)gazprombank\.(com|investments|ru)$'
-  - 'DOMAIN-REGEX,^hitcrypt\.'
-  - 'DOMAIN-REGEX,^hit\.[a-z0-9]{4,8}\.'
-  - 'DOMAIN-REGEX,(^|\.)it-[a-z0-9-]*\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)jivo[a-z0-9-]*\.(chat|co\.in|co\.za|com|com\.br|com\.co|com\.pe|com\.tr|de|es|ng|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)lenta\.(com|tech)$'
-  - 'DOMAIN-REGEX,(^|\.)mosmetro\.(ru|tech)$'
-  - 'DOMAIN-REGEX,(^|\.)o3[a-z0-9-]*\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)okko\.(sport|tv)$'
-  - 'DOMAIN-REGEX,(^|\.)ozon[a-z0-9-]*\.(by|com|dev|express|kz|li|pro|ru|tech|tm|travel)$'
-  - 'DOMAIN-REGEX,(^|\.)ozonru\.(co\.il|com|eu|me)$'
-  - 'DOMAIN-REGEX,(^|\.)p(ay|lati)ecom\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)perekrestok\.(com|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)psb[a-z0-9-]*\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)rb(collect|credit)\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)rosban[a-z0-9-]*\.(com|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)rusfinance[a-z0-9-]*\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)rutube[a-z0-9-]*\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)rwb[a-z0-9-]*\.(ru|tech)$'
-  - 'DOMAIN-REGEX,(^|\.)rzd[a-z0-9-]*\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)rzd[a-z0-9-]*\.plus$'
-  - 'DOMAIN-REGEX,(^|\.)sber[a-z0-9-]*\.(by|com|pro|ru|tech)$'
-  - 'DOMAIN-REGEX,(^|\.)spasib[a-z0-9-]*\.(digital|market|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)t-[a-z0-9-]*\.(by|group|ru|su)$'
-  - 'DOMAIN-REGEX,(^|\.)t-tech\.(dev|ru|team)$'
-  - 'DOMAIN-REGEX,(^|\.)taxi[a-z0-9-]*\.org$'
-  - 'DOMAIN-REGEX,(^|\.)tink[a-z0-9-]*\.(ai|com|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)tinsurance[a-z0-9-]*\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)tochka[a-z0-9-]*\.com$'
-  - 'DOMAIN-REGEX,(^|\.)vk\.(cc|com|company|design|link|me|ru|team)$'
-  - 'DOMAIN-REGEX,(^|\.)vk[^u][a-z0-9-]*\.(app|com|me|net|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)vk-apps\.(com|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)vk-cdn\.(me|net)$'
-  - 'DOMAIN-REGEX,(^|\.)vkuser[a-z0-9-]*\.(com|net|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)w[aeiou]{0,2}l[a-z0-9-]*\.ru$'
-  - 'DOMAIN-REGEX,(^|\.)wb[a-z0-9-]*\.(by|net|ru|tech)$'
-  - 'DOMAIN-REGEX,(^|\.)wb\.(am|kg|kz|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)webvisor\.(com|org)$'
-  - 'DOMAIN-REGEX,(^|\.)wibes\.(com|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)wildberries\.(am|by|co\.il|es|eu|ge|kg|kz|lt|ru|tj|tm|uz)$'
-  - 'DOMAIN-REGEX,(^|\.)x5[a-z0-9-]*\.(net|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)x5\.(ai|com|digital|group|media|ru|team|tech)$'
-  - 'DOMAIN-REGEX,(^|\.)ya\.(cc|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)yand[a-z0-9-]*\.(com|net|org|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)yandex\.(aero|asia|az|by|cloud|co\.il|com|com\.am|com\.ge|com\.ru|com\.tr|com\.ua|de|ee|eu|fi|fr|jobs|kg|kz|lt|lv|md|mobi|net|org|pl|ru|st|sx|tj|tm|tr|ua|uz)$'
-  - 'DOMAIN-REGEX,(^|\.)yang[a-z0-9-]*\.com$'
-  - 'DOMAIN-REGEX,(^|\.)yango\.(africa|ao|bh|co\.il|com|fi|qa|taxi|tech)$'
-  - 'DOMAIN-REGEX,(^|\.)yast[a-z0-9-]*\.(net|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)zvuk[a-z0-9-]*\.com$'
-  - 'DOMAIN-REGEX,wb\.(com|ru)$'
-  - 'DOMAIN-REGEX,youla\.(io|ru)$'
-  - 'DOMAIN-REGEX,(^|\.)mileonair\.(ru|com)$'
-  - 'DOMAIN-REGEX,(^|\.)dbankcloud\.(ru|com|asia)$'
-  - 'DOMAIN-REGEX,(^|\.)dbankcdn\.(ru|com|asia)$'
-  - 'DOMAIN-REGEX,(^|\.)litres\.(ru|io)$'
-  - 'DOMAIN-REGEX,(^|\.)edna\.(ru|id)$'
-  - 'DOMAIN-REGEX,^((academy|cloud|cloud-eu|help-ru|help|chat|mcp|bitrix|websocket|feedback)\.)?roistat\.com$'
+- PROCESS-NAME,steamwebhelper.exe
+- PROCESS-NAME,steam.exe
+- PROCESS-NAME,NVIDIA Overlay.exe
+- PROCESS-NAME,nvcontainer.exe
+- PROCESS-NAME,Battle.net.exe
+- PROCESS-NAME,Battle.net
+- PROCESS-NAME,GameCenter
+- PROCESS-NAME,GameCenter.exe
+- PROCESS-NAME,cs2.exe
+- PROCESS-NAME,dota2.exe
+- GEOIP,private
+- GEOSITE,private
+- GEOSITE,category-bank-ru
+- GEOSITE,category-medicine-ru
+- GEOSITE,category-media-ru
+- GEOSITE,category-gov-ru
+- GEOSITE,category-retail-ru
+- GEOSITE,category-travel-ru
+- GEOSITE,category-entertainment-ru
+- GEOSITE,category-ecommerce-ru
+- GEOSITE,category-antivirus
+- GEOSITE,yandex
+- GEOSITE,mailru-group
+- GEOSITE,2gis
+- DOMAIN-SUFFIX,ru.com
+- DOMAIN-SUFFIX,ru.net
+- DOMAIN-SUFFIX,credistory.ru
+- DOMAIN-SUFFIX,nbki.ru
+- DOMAIN-SUFFIX,moex.com
+- DOMAIN-SUFFIX,spvb.ru
+- DOMAIN-SUFFIX,banki.ru
+- DOMAIN-SUFFIX,finuslugi.ru
+- DOMAIN-SUFFIX,sistema-capital.com
+- DOMAIN-SUFFIX,mirpayonline.ru
+- DOMAIN-SUFFIX,nspk.ru
+- DOMAIN-SUFFIX,netmonet.co
+- DOMAIN-SUFFIX,tips.tips
+- DOMAIN-SUFFIX,beeline.ru
+- DOMAIN-SUFFIX,dom.ru
+- DOMAIN-SUFFIX,megafon.ru
+- DOMAIN-SUFFIX,mts.ru
+- DOMAIN-SUFFIX,mymts.ru
+- DOMAIN-SUFFIX,rostelecom.ru
+- DOMAIN-SUFFIX,rt.ru
+- DOMAIN-SUFFIX,t2.ru
+- DOMAIN-SUFFIX,tele2.ru
+- DOMAIN-SUFFIX,yota.ru
+- DOMAIN-SUFFIX,gazfond-pn.ru
+- DOMAIN-SUFFIX,litres.ru
+- DOMAIN-SUFFIX,meteoinfo.ru
+- DOMAIN-SUFFIX,ngenix.net
+- DOMAIN-SUFFIX,pochta.ru
+- DOMAIN-SUFFIX,qms.ru
+- DOMAIN-SUFFIX,rustore.ru
+- DOMAIN-SUFFIX,t1.cloud
+- DOMAIN-SUFFIX,taxsee.com
+- DOMAIN-SUFFIX,yclients.com
+- DOMAIN-SUFFIX,delimobil.ru
+- DOMAIN-SUFFIX,citydrive.ru
+- DOMAIN-SUFFIX,belkacar.ru
+- DOMAIN-SUFFIX,hr-link.ru
+- DOMAIN-SUFFIX,subscription.backend-impulse.ru
+- DOMAIN-SUFFIX,subscription.impulse-dev.cc
+- DOMAIN-SUFFIX,mtalk.google.com
+- DOMAIN-SUFFIX,push.apple.com
+- DOMAIN-SUFFIX,push-apple.com.akadns.net
+- DOMAIN-WILDCARD,*-courier.push.apple.com
+- DOMAIN-SUFFIX,24h.tv
+- DOMAIN-SUFFIX,2w.ru
+- DOMAIN-SUFFIX,4c.ru
+- DOMAIN-SUFFIX,5ka.ru
+- DOMAIN-SUFFIX,5post.market
+- DOMAIN-SUFFIX,abr.ru
+- DOMAIN-SUFFIX,adfox.ru
+- DOMAIN-SUFFIX,admetrica.ru
+- DOMAIN-SUFFIX,aeroflot.ru
+- DOMAIN-SUFFIX,afafb.com
+- DOMAIN-SUFFIX,afisha.ru
+- DOMAIN-SUFFIX,aif.ru
+- DOMAIN-SUFFIX,amediateka.ru
+- DOMAIN-SUFFIX,applovin.com
+- DOMAIN-SUFFIX,appsflyersdk.com
+- DOMAIN-SUFFIX,auchan.ru
+- DOMAIN-SUFFIX,av.ru
+- DOMAIN-SUFFIX,avs.io
+- DOMAIN-SUFFIX,avtovokzaly.ru
+- DOMAIN-SUFFIX,bcs-bank.ru
+- DOMAIN-SUFFIX,bcs.ru
+- DOMAIN-SUFFIX,beeline.tv
+- DOMAIN-SUFFIX,blablacar.ru
+- DOMAIN-SUFFIX,boosty.to
+- DOMAIN-SUFFIX,bristol.ru
+- DOMAIN-SUFFIX,broker.ru
+- DOMAIN-SUFFIX,burgerkingrus.ru
+- DOMAIN-SUFFIX,capitalt.ru
+- DOMAIN-SUFFIX,cardsmobile.ru
+- DOMAIN-SUFFIX,castarsdk.com
+- DOMAIN-SUFFIX,cbr.ru
+- DOMAIN-SUFFIX,cdek.ru
+- DOMAIN-SUFFIX,cdn-tinkoff.ru
+- DOMAIN-SUFFIX,cdn-vk.ru
+- DOMAIN-SUFFIX,cdnvideo.ru
+- DOMAIN-SUFFIX,chizhik.club
+- DOMAIN-SUFFIX,cian.ru
+- DOMAIN-SUFFIX,cikrf.ru
+- DOMAIN-SUFFIX,cplsb.ru
+- DOMAIN-SUFFIX,custody.ru
+- DOMAIN-SUFFIX,data-tscbank.ru
+- DOMAIN-SUFFIX,dbo-dengi.online
+- DOMAIN-SUFFIX,dellin.ru
+- DOMAIN-SUFFIX,deltacredit.ru
+- DOMAIN-SUFFIX,depository.ru
+- DOMAIN-SUFFIX,detmir.ru
+- DOMAIN-SUFFIX,dixy.ru
+- DOMAIN-SUFFIX,dolyame.ru
+- DOMAIN-SUFFIX,donationalerts.com
+- DOMAIN-SUFFIX,dostaevsky.ru
+- DOMAIN-SUFFIX,drive2.ru
+- DOMAIN-SUFFIX,e5.ru
+- DOMAIN-SUFFIX,eaptechka.online
+- DOMAIN-SUFFIX,eapteka.ru
+- DOMAIN-SUFFIX,earnapp.com
+- DOMAIN-SUFFIX,earnsdk.io
+- DOMAIN-SUFFIX,ebs.ru
+- DOMAIN-SUFFIX,edu.ru
+- DOMAIN-SUFFIX,electronicsignature.ru
+- DOMAIN-SUFFIX,emias.info
+- DOMAIN-SUFFIX,enterly.ru
+- DOMAIN-SUFFIX,era-invest.ru
+- DOMAIN-SUFFIX,etna.ai
+- DOMAIN-SUFFIX,etradebook.ru
+- DOMAIN-SUFFIX,evrasia.rest
+- DOMAIN-SUFFIX,fivepost.ru
+- DOMAIN-SUFFIX,fix-price.com
+- DOMAIN-SUFFIX,flypobeda.ru
+- DOMAIN-SUFFIX,forbes.ru
+- DOMAIN-SUFFIX,gainstech.ru
+- DOMAIN-SUFFIX,gazeta.ru
+- DOMAIN-SUFFIX,geobasket.ru
+- DOMAIN-SUFFIX,getsynapse.io
+- DOMAIN-SUFFIX,gismeteo.ru
+- DOMAIN-SUFFIX,gorodpay.ru
+- DOMAIN-SUFFIX,gosdolgi.ru
+- DOMAIN-SUFFIX,goskey.ru
+- DOMAIN-SUFFIX,gosuslugi.ru
+- DOMAIN-SUFFIX,gov.ru
+- DOMAIN-SUFFIX,government.ru
+- DOMAIN-SUFFIX,gpb.ru
+- DOMAIN-SUFFIX,grfc.ru
+- DOMAIN-SUFFIX,gu-st.ru
+- DOMAIN-SUFFIX,hexsdk.com
+- DOMAIN-SUFFIX,hh.ru
+- DOMAIN-SUFFIX,honeygain.com
+- DOMAIN-SUFFIX,imgsmail.ru
+- DOMAIN-SUFFIX,instajob.ai
+- DOMAIN-SUFFIX,ipidea.io
+- DOMAIN-SUFFIX,ipidea.net
+- DOMAIN-SUFFIX,ivi.ru
+- DOMAIN-SUFFIX,jfn.su
+- DOMAIN-SUFFIX,kaspersky.com
+- DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+- DOMAIN-SUFFIX,kinopoisk.ru
+- DOMAIN-SUFFIX,kinorium.com
+- DOMAIN-SUFFIX,kontur.host
+- DOMAIN-SUFFIX,kontur.ru
+- DOMAIN-SUFFIX,koshelek.app
+- DOMAIN-SUFFIX,kp.ru
+- DOMAIN-SUFFIX,krasnoeibeloe.ru
+- DOMAIN-SUFFIX,kremlin.ru
+- DOMAIN-SUFFIX,kuper.ru
+- DOMAIN-SUFFIX,lenta.ru
+- DOMAIN-SUFFIX,lifestyle-tec.ru
+- DOMAIN-SUFFIX,magnit.ru
+- DOMAIN-SUFFIX,mail.ru
+- DOMAIN-SUFFIX,malotogo.ru
+- DOMAIN-SUFFIX,max-tcs.ru
+- DOMAIN-SUFFIX,max.ru
+- DOMAIN-SUFFIX,megamarket.ru
+- DOMAIN-SUFFIX,megamarket.tech
+- DOMAIN-SUFFIX,memealerts.com
+- DOMAIN-SUFFIX,meteum.ai
+- DOMAIN-SUFFIX,metro-cc.ru
+- DOMAIN-SUFFIX,mfk-t-finance.ru
+- DOMAIN-SUFFIX,mgfoms.ru
+- DOMAIN-SUFFIX,mkb.ru
+- DOMAIN-SUFFIX,mos.ru
+- DOMAIN-SUFFIX,mosreg.ru
+- DOMAIN-SUFFIX,motivtelecom.ru
+- DOMAIN-SUFFIX,mp.world
+- DOMAIN-SUFFIX,mradx.net
+- DOMAIN-SUFFIX,mrgcdn.ru
+- DOMAIN-SUFFIX,mtsdengi.ru
+- DOMAIN-SUFFIX,mvk.com
+- DOMAIN-SUFFIX,my-tbank.ru
+- DOMAIN-SUFFIX,myapelsin.ru
+- DOMAIN-SUFFIX,mycdn.me
+- DOMAIN-SUFFIX,myspar.ru
+- DOMAIN-SUFFIX,nalog.ru
+- DOMAIN-SUFFIX,naydex.net
+- DOMAIN-SUFFIX,neon.click
+- DOMAIN-SUFFIX,ocourier.ru
+- DOMAIN-SUFFIX,ok.ru
+- DOMAIN-SUFFIX,okcdn.ru
+- DOMAIN-SUFFIX,okolo.app
+- DOMAIN-SUFFIX,oneme.ru
+- DOMAIN-SUFFIX,onlyjobs.ru
+- DOMAIN-SUFFIX,ostrovok.ru
+- DOMAIN-SUFFIX,otello.ru
+- DOMAIN-SUFFIX,packetsdk.com
+- DOMAIN-SUFFIX,packetsdk.io
+- DOMAIN-SUFFIX,packetsdk.net
+- DOMAIN-SUFFIX,packetsdk.xyz
+- DOMAIN-SUFFIX,packetstream.net
+- DOMAIN-SUFFIX,pawns.app
+- DOMAIN-SUFFIX,payment.ru
+- DOMAIN-SUFFIX,peer2profit.com
+- DOMAIN-SUFFIX,pervye.ru
+- DOMAIN-SUFFIX,phoenix-ca.ru
+- DOMAIN-SUFFIX,playfamily.ru
+- DOMAIN-SUFFIX,pochtabank.ru
+- DOMAIN-SUFFIX,premier.one
+- DOMAIN-SUFFIX,private-banking.ru
+- DOMAIN-SUFFIX,prodcontest.com
+- DOMAIN-SUFFIX,psk
+- DOMAIN-SUFFIX,rambler-co.ru
+- DOMAIN-SUFFIX,rambler.ru
+- DOMAIN-SUFFIX,rbc.ru
+- DOMAIN-SUFFIX,reg.ru
+- DOMAIN-SUFFIX,restream-media.net
+- DOMAIN-SUFFIX,rg.ru
+- DOMAIN-SUFFIX,ria.ru
+- DOMAIN-SUFFIX,rnd.ru
+- DOMAIN-SUFFIX,rostaxi.org
+- DOMAIN-SUFFIX,rrtp.ru
+- DOMAIN-SUFFIX,rshb.ru
+- DOMAIN-SUFFIX,rtbcdn.ru
+- DOMAIN-SUFFIX,russoutdoor.ru
+- DOMAIN-SUFFIX,safeliner.tech
+- DOMAIN-SUFFIX,sage-observability.tech
+- DOMAIN-SUFFIX,samokat.ru
+- DOMAIN-SUFFIX,sbrf.ru
+- DOMAIN-SUFFIX,sdk-api.apptracer.ru
+- DOMAIN-SUFFIX,sgcheck.ru
+- DOMAIN-SUFFIX,sirena-travel.ru
+- DOMAIN-SUFFIX,smotreshka.tv
+- DOMAIN-SUFFIX,spb.ru
+- DOMAIN-SUFFIX,sravni.ru
+- DOMAIN-SUFFIX,start.ru
+- DOMAIN-SUFFIX,t.finance
+- DOMAIN-SUFFIX,tamtam.chat
+- DOMAIN-SUFFIX,tank-online.com
+- DOMAIN-SUFFIX,taximaxim.ru
+- DOMAIN-SUFFIX,tb-esim.ru
+- DOMAIN-SUFFIX,tbank-online.com
+- DOMAIN-SUFFIX,tbank.ru
+- DOMAIN-SUFFIX,tconf.ru
+- DOMAIN-SUFFIX,tcsbank.ru
+- DOMAIN-SUFFIX,telega.info
+- DOMAIN-SUFFIX,telega.me
+- DOMAIN-SUFFIX,tiktokpangle.us
+- DOMAIN-SUFFIX,tildaapi.com
+- DOMAIN-SUFFIX,time-messenger.ru
+- DOMAIN-SUFFIX,tmiaf.ru
+- DOMAIN-SUFFIX,tns-counter.ru
+- DOMAIN-SUFFIX,tpension.ru
+- DOMAIN-SUFFIX,travel-tec.ru
+- DOMAIN-SUFFIX,trbcdn.net
+- DOMAIN-SUFFIX,turbopages.org
+- DOMAIN-SUFFIX,tutu.ru
+- DOMAIN-SUFFIX,tvigle.ru
+- DOMAIN-SUFFIX,udqrh6.ru
+- DOMAIN-SUFFIX,uni.rest
+- DOMAIN-SUFFIX,unirest.tech
+- DOMAIN-SUFFIX,userapi.com
+- DOMAIN-SUFFIX,uxzw.club
+- DOMAIN-SUFFIX,vamzakaz.ru
+- DOMAIN-SUFFIX,viju.ru
+- DOMAIN-SUFFIX,vkusnoitochka.ru
+- DOMAIN-SUFFIX,vkusvill.ru
+- DOMAIN-SUFFIX,vsemrabota.ru
+- DOMAIN-SUFFIX,vtb.ru
+- DOMAIN-SUFFIX,vungle.com
+- DOMAIN-SUFFIX,warehouse.domains
+- DOMAIN-SUFFIX,winelab.ru
+- DOMAIN-SUFFIX,wink.ru
+- DOMAIN-SUFFIX,yads.tech
+- DOMAIN-SUFFIX,yandex
+- DOMAIN-SUFFIX,yandex-images.clstorage.net
+- DOMAIN-SUFFIX,yccdn.ru
+- DOMAIN-SUFFIX,yektanet.com
+- DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+- DOMAIN-SUFFIX,plyr.io
+- DOMAIN,yandex-pogoda.static-storage.net
+- DOMAIN-SUFFIX,ipinfo.io
+- DOMAIN-SUFFIX,bookmate.ru
+- DOMAIN-SUFFIX,russianpost.ru
+- DOMAIN-SUFFIX,nnm-club.cc
+- DOMAIN-SUFFIX,nnm-club.info
+- DOMAIN-SUFFIX,opentrackr.org
+- DOMAIN-SUFFIX,xbtrutor.com
+- DOMAIN-SUFFIX,hola.org
+- DOMAIN-SUFFIX,dler.org
+- DOMAIN-SUFFIX,zoon.ru
+- DOMAIN-SUFFIX,network-lc.ru
+- DOMAIN-SUFFIX,servicecdn.ru
+- DOMAIN-SUFFIX,mwscdn.ru
+- DOMAIN-SUFFIX,inappstory.ru
+- DOMAIN-SUFFIX,ipify.org
+- DOMAIN-SUFFIX,domonap.ru
+- DOMAIN-SUFFIX,dns-shop.ru
+- DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+- DOMAIN-SUFFIX,uxfeedback.ru
+- DOMAIN-SUFFIX,wsoft.ru
+- DOMAIN-SUFFIX,plamit.ru
+- DOMAIN-SUFFIX,lencr.org
+- DOMAIN-SUFFIX,juicyscore.com
+- DOMAIN-SUFFIX,my-manager-account.com
+- DOMAIN-SUFFIX,kion.ru
+- DOMAIN-SUFFIX,api-lmn.ru
+- DOMAIN-SUFFIX,lemanapro.ru
+- DOMAIN-SUFFIX,sputnik.ru
+- DOMAIN-SUFFIX,yadro.ru
+- DOMAIN-REGEX,(^|\.)2gis\.(ae|am|az|by|com|com\.cy|cz|ge|kg|kz|ru|tj|ua|uz)$
+- DOMAIN-REGEX,(^|\.)alfa[a-z0-9-]*\.(oavdo\.amc|ru|st)$
+- DOMAIN-REGEX,(^|\.)atomyze\.(ru|tech)$
+- DOMAIN-REGEX,(^|\.)aviasales\.(com|ru)$
+- DOMAIN-REGEX,(^|\.)avito\.(ru|st)$
+- DOMAIN-REGEX,(^|\.)dodo[a-z0-9-]*\.(com|io|net|ru)$
+- DOMAIN-REGEX,(^|\.)dzen[a-z0-9-]*\.ru$
+- DOMAIN-REGEX,(^|\.)gazprombank\.(com|investments|ru)$
+- DOMAIN-REGEX,^hitcrypt\.
+- DOMAIN-REGEX,^hit\.[a-z0-9]{4,8}\.
+- DOMAIN-REGEX,(^|\.)it-[a-z0-9-]*\.ru$
+- DOMAIN-REGEX,(^|\.)jivo[a-z0-9-]*\.(chat|co\.in|co\.za|com|com\.br|com\.co|com\.pe|com\.tr|de|es|ng|ru)$
+- DOMAIN-REGEX,(^|\.)lenta\.(com|tech)$
+- DOMAIN-REGEX,(^|\.)mosmetro\.(ru|tech)$
+- DOMAIN-REGEX,(^|\.)o3[a-z0-9-]*\.ru$
+- DOMAIN-REGEX,(^|\.)okko\.(sport|tv)$
+- DOMAIN-REGEX,(^|\.)ozon[a-z0-9-]*\.(by|com|dev|express|kz|li|pro|ru|tech|tm|travel)$
+- DOMAIN-REGEX,(^|\.)ozonru\.(co\.il|com|eu|me)$
+- DOMAIN-REGEX,(^|\.)p(ay|lati)ecom\.ru$
+- DOMAIN-REGEX,(^|\.)perekrestok\.(com|ru)$
+- DOMAIN-REGEX,(^|\.)psb[a-z0-9-]*\.ru$
+- DOMAIN-REGEX,(^|\.)rb(collect|credit)\.ru$
+- DOMAIN-REGEX,(^|\.)rosban[a-z0-9-]*\.(com|ru)$
+- DOMAIN-REGEX,(^|\.)rusfinance[a-z0-9-]*\.ru$
+- DOMAIN-REGEX,(^|\.)rutube[a-z0-9-]*\.ru$
+- DOMAIN-REGEX,(^|\.)rwb[a-z0-9-]*\.(ru|tech)$
+- DOMAIN-REGEX,(^|\.)rzd[a-z0-9-]*\.ru$
+- DOMAIN-REGEX,(^|\.)rzd[a-z0-9-]*\.plus$
+- DOMAIN-REGEX,(^|\.)sber[a-z0-9-]*\.(by|com|pro|ru|tech)$
+- DOMAIN-REGEX,(^|\.)spasib[a-z0-9-]*\.(digital|market|ru)$
+- DOMAIN-REGEX,(^|\.)t-[a-z0-9-]*\.(by|group|ru|su)$
+- DOMAIN-REGEX,(^|\.)t-tech\.(dev|ru|team)$
+- DOMAIN-REGEX,(^|\.)taxi[a-z0-9-]*\.org$
+- DOMAIN-REGEX,(^|\.)tink[a-z0-9-]*\.(ai|com|ru)$
+- DOMAIN-REGEX,(^|\.)tinsurance[a-z0-9-]*\.ru$
+- DOMAIN-REGEX,(^|\.)tochka[a-z0-9-]*\.com$
+- DOMAIN-REGEX,(^|\.)vk\.(cc|com|company|design|link|me|ru|team)$
+- DOMAIN-REGEX,(^|\.)vk[^u][a-z0-9-]*\.(app|com|me|net|ru)$
+- DOMAIN-REGEX,(^|\.)vk-apps\.(com|ru)$
+- DOMAIN-REGEX,(^|\.)vk-cdn\.(me|net)$
+- DOMAIN-REGEX,(^|\.)vkuser[a-z0-9-]*\.(com|net|ru)$
+- DOMAIN-REGEX,(^|\.)w[aeiou]{0,2}l[a-z0-9-]*\.ru$
+- DOMAIN-REGEX,(^|\.)wb[a-z0-9-]*\.(by|net|ru|tech)$
+- DOMAIN-REGEX,(^|\.)wb\.(am|kg|kz|ru)$
+- DOMAIN-REGEX,(^|\.)webvisor\.(com|org)$
+- DOMAIN-REGEX,(^|\.)wibes\.(com|ru)$
+- DOMAIN-REGEX,(^|\.)wildberries\.(am|by|co\.il|es|eu|ge|kg|kz|lt|ru|tj|tm|uz)$
+- DOMAIN-REGEX,(^|\.)x5[a-z0-9-]*\.(net|ru)$
+- DOMAIN-REGEX,(^|\.)x5\.(ai|com|digital|group|media|ru|team|tech)$
+- DOMAIN-REGEX,(^|\.)ya\.(cc|ru)$
+- DOMAIN-REGEX,(^|\.)yand[a-z0-9-]*\.(com|net|org|ru)$
+- DOMAIN-REGEX,(^|\.)yandex\.(aero|asia|az|by|cloud|co\.il|com|com\.am|com\.ge|com\.ru|com\.tr|com\.ua|de|ee|eu|fi|fr|jobs|kg|kz|lt|lv|md|mobi|net|org|pl|ru|st|sx|tj|tm|tr|ua|uz)$
+- DOMAIN-REGEX,(^|\.)yang[a-z0-9-]*\.com$
+- DOMAIN-REGEX,(^|\.)yango\.(africa|ao|bh|co\.il|com|fi|qa|taxi|tech)$
+- DOMAIN-REGEX,(^|\.)yast[a-z0-9-]*\.(net|ru)$
+- DOMAIN-REGEX,(^|\.)zvuk[a-z0-9-]*\.com$
+- DOMAIN-REGEX,wb\.(com|ru)$
+- DOMAIN-REGEX,youla\.(io|ru)$
+- DOMAIN-REGEX,(^|\.)mileonair\.(ru|com)$
+- DOMAIN-REGEX,(^|\.)dbankcloud\.(ru|com|asia)$
+- DOMAIN-REGEX,(^|\.)dbankcdn\.(ru|com|asia)$
+- DOMAIN-REGEX,(^|\.)litres\.(ru|io)$
+- DOMAIN-REGEX,(^|\.)edna\.(ru|id)$
+- DOMAIN-REGEX,^((academy|cloud|cloud-eu|help-ru|help|chat|mcp|bitrix|websocket|feedback)\.)?roistat\.com$
+- DOMAIN,singular.net,REJECT
+- DOMAIN,ads.betweendigital.com,REJECT
+- DOMAIN,pangle.io,REJECT
+- DOMAIN,unityads.unity3d.com,REJECT
+- DOMAIN,uxzw.club,REJECT
+- DOMAIN,inmobi.com,REJECT
+- DOMAIN,maticooads.com,REJECT
+- DOMAIN,applovin.com,REJECT
+- DOMAIN,apptracer.ru,REJECT
+- DOMAIN,api.mixpanel.com,REJECT
+- DOMAIN,udqrh6.ru,REJECT
+- DOMAIN,yektanet.com,REJECT
+- DOMAIN,togothermany.com,REJECT
+- DOMAIN,ads.vungle.com,REJECT
+- DOMAIN,roistat.com,REJECT
+- DOMAIN,mindbox.ru,REJECT
+- DOMAIN,app-analytics-services.com,REJECT
+- DOMAIN,crashlytics.com,REJECT
+- DOMAIN,app-measurement.com,REJECT
+- DOMAIN,holadns.com,REJECT
+- DOMAIN,proxyb.site,REJECT
+- DOMAIN,shalltry.com,REJECT
+- DOMAIN-REGEX,(^|\.)adjust\.(io|ru|com|world|net\.in)$,REJECT
+- DOMAIN-REGEX,^ym[a-z0-9]{8}\.ru$,REJECT
+- DOMAIN-REGEX,^browork[0-9]*er[0-9a-z]*\.(com|cc|net)$,REJECT
+- DOMAIN-REGEX,^brodownload[0-9a-z]*\.(com|cc|net)$,REJECT
