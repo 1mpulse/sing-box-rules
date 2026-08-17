@@ -2,6 +2,7 @@ payload:
   # Programs
   - PROCESS-NAME,claude.exe
   - PROCESS-NAME,claude
+  
   # Domains
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,clau.de
@@ -10,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,workos.com
 
   # CDN & API
   - DOMAIN,servd-anthropic-website.b-cdn.net
