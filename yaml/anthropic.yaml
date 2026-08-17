@@ -1,4 +1,7 @@
 payload:
+  # Programs
+  - PROCESS-NAME,claude.exe
+  - PROCESS-NAME,claude
   # Domains
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,clau.de
