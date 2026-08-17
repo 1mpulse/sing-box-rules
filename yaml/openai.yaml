@@ -2,6 +2,8 @@ payload:
   # Programs
   - PROCESS-NAME,ChatGPT.exe
   - PROCESS-NAME,ChatGPT
+  - PROCESS-NAME,ChatGPT Classic.exe
+  - PROCESS-NAME,ChatGPT Classic
 
   # Domains
   - DOMAIN-SUFFIX,chatgpt.com
